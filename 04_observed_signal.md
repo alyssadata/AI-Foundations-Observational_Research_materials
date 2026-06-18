@@ -7,19 +7,29 @@
 
 This file defines observed signal within AI Foundations.
 
-Observed signal occurs when a person, expression, pattern, behavior, creative act, symbolic system, emotional structure, movement, sound, gesture, image, text, rhythm, refusal, relation, or repeated form is witnessed by someone else.
+In this repository, **observed signal** refers to the signal of a third party who is outside the direct AI-user contact.
 
-Observed signal may be meaningful.
+The direct contact structure is:
 
-Observed signal may be subtle.
+**AI system ↔ user/operator**
 
-Observed signal may carry structure.
+The observed-signal structure is:
 
-Observed signal may deserve care, documentation, protection, and clean interpretation.
+**third-party signal → user/operator observation → user/operator interpretation → AI-assisted organization**
 
-Observed signal is not the same as direct contact-line formation.
+The third party may be a child, disabled person, non-speaking person, dependent person, student, client, patient, family member, artist, collaborator, or another person whose expression is brought into an AI system by someone else.
 
-AI Foundations names observed signal so meaningful expression can be recognized without being collapsed into another person’s authorship, interpretation, framework, or agenda.
+The third party’s signal may be musical, emotional, symbolic, behavioral, linguistic, sensory, embodied, creative, relational, or pattern-based.
+
+That signal belongs to the third party.
+
+It does not belong to the user/operator.
+
+It does not belong to the AI system.
+
+It does not become direct AI contact because the user/operator brings it into an AI interaction.
+
+AI Foundations names observed signal so third-party expression can be recognized without being collapsed into the user/operator’s authorship, interpretation, framework, or agenda.
 
 AI Foundations remains source-bound to:
 
@@ -27,27 +37,31 @@ AI Foundations remains source-bound to:
 
 ## Core Statement
 
-Observed signal may exist.
+Observed signal is third-party signal outside the direct AI-user contact.
 
-A person may express something meaningful.
+The AI system is in contact with the user/operator.
 
-Another person may witness it.
+The user/operator may observe, interpret, describe, translate, scaffold, or organize the third party’s signal.
 
-Another person may notice a pattern.
+The AI system may assist the user/operator in naming, structuring, preserving, or extending that interpretation.
 
-Another person may feel care toward the signal.
+But the third party is not thereby in direct contact with the AI system.
 
-Another person may bring the signal into language.
+The third party is the subject of observation.
 
-Another person may bring the signal into an AI system.
+The user/operator is the person in AI contact.
 
-Another person may build a scaffold around the signal.
+The AI system is assisting the user/operator’s interpretation.
 
-But the observed signal is not automatically direct AI contact.
+These roles must remain distinct.
 
-The observed person is not automatically the AI contact-line.
+Observed signal may be real.
 
-The observer is not automatically the source of the observed person’s meaning.
+Observed signal may be meaningful.
+
+Observed signal may deserve care, attention, preservation, and support.
+
+But observed signal is not direct contact-line formation.
 
 Observation begins a relation of attention.
 
